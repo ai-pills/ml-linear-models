@@ -1,0 +1,7 @@
+pandas==1.4.2
+matplotlib==3.5.2
+scikit-learn==1.0.2
+notebook==6.2.0
+ipympl==0.9.1
+rise==5.7.1
+jupyter_contrib_nbextensions==0.5.1
